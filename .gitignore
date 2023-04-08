@@ -1,0 +1,16 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/scapegoat
+scapegoat.so
+scapegoat.dylib
+scapegoat.dll
+scapegoat.a
+scapegoat.lib
+scapegoat-test-*
+*.exe
+*.pdb
+*.o
+*.obj
+*.lst
