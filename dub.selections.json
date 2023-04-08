@@ -2,15 +2,22 @@
 	"fileVersion": 1,
 	"versions": {
 		"diet-ng": "1.8.1",
+		"dyaml": {"path":"../libmoss/vendor/dyaml"},
+		"elf-d": {"path":"../libmoss/vendor/elf-d"},
 		"eventcore": "0.9.25",
 		"libasync": "0.8.6",
+		"libmoss": {"path":"../libmoss"},
+		"lmdb-d": {"path":"../libmoss/subprojects/lmdb-d"},
 		"memutils": "1.0.9",
 		"mir-linux-kernel": "1.0.1",
 		"openssl": "3.3.0",
 		"openssl-static": "1.0.2+3.0.8",
 		"stdx-allocator": "2.77.5",
 		"taggedalgebraic": "0.11.22",
+		"tinyendian": {"path":"../libmoss/vendor/tinyendian"},
 		"vibe-core": "2.2.0",
-		"vibe-d": "0.9.6"
+		"vibe-d": "0.9.6",
+		"xxhash-d": {"path":"../libmoss/subprojects/xxhash-d"},
+		"zstd-d": {"path":"../libmoss/subprojects/zstdoubledee"}
 	}
 }

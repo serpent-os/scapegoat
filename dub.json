@@ -4,7 +4,10 @@
 	],
 	"copyright": "Copyright © 2023, Serpent OS Developers",
 	"dependencies": {
-		"vibe-d:http": "~>0.9"
+		"vibe-d:http": "~>0.9",
+		"libmoss": {
+			"path": "../libmoss"
+		}
 	},
 	"description": "Packaging and compliance helpers",
 	"license": "Zlib",
